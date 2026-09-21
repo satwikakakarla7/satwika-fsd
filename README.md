@@ -1,9 +1,9 @@
 <<<<<<< HEAD
 # FSD TypeScript Lab
 
-Name: Tejaswini Allam
+Name: Kakarla Venkata Satwika
 
-This repository contains TypeScript lab experiments up to Week 4.
+This repository contains TypeScript lab experiments up to Week 7.
 
 Extra Program:
 - Check Prime Number
